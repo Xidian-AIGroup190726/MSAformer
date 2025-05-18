@@ -1,1 +1,1 @@
-# MRSformer
+# MSAformer
