@@ -7,8 +7,7 @@
 ## Installation
 Based on the Pytorch framework:
 
-'''
-
+```
 $ pip install tifffile
 
 $ pip install opencv
@@ -16,7 +15,7 @@ $ pip install opencv
 $ pip install scikit-learn
 
 $ python main.py
-'''
+```
 
 ## Config
 
