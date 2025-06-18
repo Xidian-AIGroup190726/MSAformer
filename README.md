@@ -7,7 +7,7 @@
 ## Installation
 Based on the Pytorch framework:
 
-''' python
+'''
 
 $ pip install tifffile
 
