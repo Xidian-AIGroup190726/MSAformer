@@ -1,5 +1,5 @@
 # MSAformer
-## [2026.6.4] NEWS：This work has been accepted by IEEE TGRS. Coming soon to publication.
+## [2026.6.9] NEWS：This work has been accepted by IEEE TGRS！
 ## Framework of Multi-Scale Symmetric Difference Attention-Based Transformer for Panchromatic and Multispectral Classification
 ![img](./framework.jpg)
 
